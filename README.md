@@ -9,4 +9,9 @@ https://dzone.com/articles/consuming-rest-api-with-reactjs
 
 https://grokonez.com/spring-framework-tutorial/spring-boot
 
-test line 1
+https://jasonwatmore.com/post/2020/05/13/node-mongo-api-with-email-sign-up-verification-authentication-forgot-password
+https://jasonwatmore.com/post/2020/04/22/react-email-sign-up-with-verification-authentication-forgot-password
+https://jasonwatmore.com/post/2020/05/22/angular-9-jwt-authentication-with-refresh-tokens
+https://jasonwatmore.com/post/2020/05/15/angular-9-role-based-authorization-tutorial-with-example
+
+
